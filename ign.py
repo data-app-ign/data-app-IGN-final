@@ -31,6 +31,7 @@ if section == "► 1. Overview and Objectives":
     st.header("1.1. Objectives and Target Audience")
     st.write(
         """
+        The gaming industry is rapidly growing and has already reached a total market capitalization of several hundred billion USD. This has made success a lucrative prospect, but, as in any lucrative industry, competition is fierce, with many amazing games being released each year. It is becoming increasingly difficult to stand apart, reflected by the ballooning average marketing costs associated with modern game releases.
         This project aims to provide a detailed analysis and predictive insights into the gaming industry, 
         targeting game developers, marketers, data analysts, and academic researchers. 
         It's designed to identify trends, patterns, and key factors contributing to the success of gaming projects.
@@ -40,9 +41,7 @@ if section == "► 1. Overview and Objectives":
     st.header("1.2. Application and Benefits")
     st.write(
         """
-        Utilize this tool for predictive analytics of game success, consumer behavior analysis, 
-        and market trend visualization. Ideal for optimizing game development strategies, 
-        marketing campaigns, and enhancing user engagement in the gaming sector.
+        The core value of this project's predictive insights is based on the significant statistical impact a game's release date has on the average critical acclaim any given game across genres has. Beyond proving statistical significance, this project recommends game developers release windows most conducive to their success, and demonstrates the predicted impact "gaming" the release date has on potential success parameters, primarily that of critical acclaim.
         """
     )
 
