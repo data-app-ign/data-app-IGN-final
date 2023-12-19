@@ -32,9 +32,7 @@ if section == "► 1. Overview and Objectives":
     st.write(
         """
         The gaming industry is rapidly growing and has already reached a total market capitalization of several hundred billion USD. This has made success a lucrative prospect, but, as in any lucrative industry, competition is fierce, with many amazing games being released each year. It is becoming increasingly difficult to stand apart, reflected by the ballooning average marketing costs associated with modern game releases.
-        This project aims to provide a detailed analysis and predictive insights into the gaming industry, 
-        targeting game developers, marketers, data analysts, and academic researchers. 
-        It's designed to identify trends, patterns, and key factors contributing to the success of gaming projects.
+        This project aims to bring a quantitative approach, driven by real world data, to better help game developers schedule their game releases to maximize their success potential and increase their likelihood of achieving critical acclaim. Predictive insights to recommend those annual release date windows most conducive to success are implemented.
         """
     )
 
